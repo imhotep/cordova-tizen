@@ -11,7 +11,7 @@ Open a terminal, and navigate to the root cordova-tizen folder.
 A Makefile resides here; You can run make on individual target tasks:
 
    - `make js` - builds phonegap.js from source javascript files to libs/phonegap.js
-   - `make copy_js` - copies libs/phonegap.js to framework/phonegap-$(PGVERSION).js (e.g: phonegap-1.4.1.js).
+   - `make copy_js` - copies libs/phonegap.js to framework/phonegap-$(PGVERSION).js (e.g: phonegap-1.5.0.js).
    Modify this path if you want it in another location.
    - `make sample_app` - package the skeleton web application as a "wgt" widget package which can be imported from 
    Tizen SDK IDE. (File->Import->Widget [Project and Widget File] -> select widget)

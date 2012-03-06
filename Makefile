@@ -18,7 +18,7 @@ OPEN = open
 ECHO = echo
 ECHO_N = echo -n
 JAVA = java
-PGVERSION = 1.4.1
+PGVERSION = 1.5.0
 
 all :: js copy_js sample_app
 
