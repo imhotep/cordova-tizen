@@ -14,7 +14,7 @@ function Device() {
 	this.name = null;
 	
 	/* PhoneGap version */
-	this.phonegap = "1.4.1";
+	this.phonegap = "1.5.0";
 	
 	/* Device OS name */
 	this.platform = "Tizen Beta";
